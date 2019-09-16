@@ -9,16 +9,15 @@ If you are familiar with Matlab, the [introduction to NumPy for Matlab users](ht
 
 ### Contents
 
-* [Installing Python and packages](https://github.com/mediaic/CV2018_Tutorial/blob/master/Python%20Intro%20%26%20Install.pdf)
-* [Python tutorial](https://github.com/mediaic/CV2018_Tutorial/blob/master/python_tutorial.ipynb)
-* [NumPy tutorial](https://github.com/mediaic/CV2018_Tutorial/blob/master/numpy_tutorial.ipynb)
-* [OpenCV tutorial](https://github.com/mediaic/CV2018_Tutorial/tree/master/OpenCV)
+* [Installing Python and packages](https://github.com/mediaic/CV_Course_Tutorial/blob/master/Python%20Intro%20%26%20Install.pdf)
+* [Python tutorial](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb)
+* [NumPy tutorial](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb)
+* [OpenCV tutorial](https://github.com/mediaic/CV_Course_Tutorial/tree/master/OpenCV)
 
 ### Contact
 
 If you have further questions, please contact:
-* Chih-Wei Wu (吳致緯) cwwu@media.ee.ntu.edu.tw
-* Wei-Chih Tu (塗偉志) wctu@media.ee.ntu.edu.tw
+* Chih-Wei Wu (劉致廷) jackieliu@media.ee.ntu.edu.tw
 
 ### External Links
 
