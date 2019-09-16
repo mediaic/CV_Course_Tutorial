@@ -17,7 +17,7 @@ If you are familiar with Matlab, the [introduction to NumPy for Matlab users](ht
 ### Contact
 
 If you have further questions, please contact:
-* Chih-Wei Wu (劉致廷) jackieliu@media.ee.ntu.edu.tw
+* Chih-Ting Liu (劉致廷) jackieliu@media.ee.ntu.edu.tw
 
 ### External Links
 
