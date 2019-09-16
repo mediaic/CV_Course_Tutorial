@@ -1,4 +1,4 @@
-# [Computer Vision (Fall 2019)](http://media.ee.ntu.edu.tw/courses/cv/19F/)
+# [Computer Vision (Fall 2018)](http://media.ee.ntu.edu.tw/courses/cv/18F/)
 
 ## Mini-Tutorial on Python + NumPy + OpenCV
 
