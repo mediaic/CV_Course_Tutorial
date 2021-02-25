@@ -11,7 +11,7 @@ If you are familiar with Matlab, the [introduction to NumPy for Matlab users](ht
 
 1. __Installing Python and packages__ [[link]](https://github.com/mediaic/CV_Course_Tutorial/blob/master/Python%20Intro%20%26%20Install.pdf)
 2. __Python tutorial__ [[notebook file]](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb) or  [[colab]](https://colab.research.google.com/drive/1gfbudbCvhmCOvgIYU6GrHhRIfSk08J3Q)
-3. __NumPy tutorial__ [[notebook file]](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb) or [[colab]](https://drive.google.com/file/d/1XGywWArQnpbfvolWp-MTRS_tmTUpE3Y-/view?usp=sharing)
+3. __NumPy tutorial__ [[notebook file]](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb) or [[colab]](https://colab.research.google.com/drive/1XGywWArQnpbfvolWp-MTRS_tmTUpE3Y-)
 4. __OpenCV tutorial__ [[link]](https://github.com/mediaic/CV_Course_Tutorial/tree/master/OpenCV)
 
 ### Contact
