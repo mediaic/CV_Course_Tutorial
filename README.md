@@ -1,4 +1,4 @@
-# [Computer Vision (Fall 2019)](http://media.ee.ntu.edu.tw/courses/cv/19F/)
+# [Computer Vision (Spring 2021)](http://media.ee.ntu.edu.tw/courses/cv/21S/)
 
 ## Mini-Tutorial on Python + NumPy + OpenCV
 
@@ -10,7 +10,7 @@ If you are familiar with Matlab, the [introduction to NumPy for Matlab users](ht
 ### Contents
 
 * [Installing Python and packages](https://github.com/mediaic/CV_Course_Tutorial/blob/master/Python%20Intro%20%26%20Install.pdf)
-* [Python tutorial](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb)
+* Python tutorial [notebook](https://github.com/mediaic/CV_Course_Tutorial/blob/master/python_tutorial.ipynb) or  [colab](https://colab.research.google.com/drive/1gfbudbCvhmCOvgIYU6GrHhRIfSk08J3Q)
 * [NumPy tutorial](https://github.com/mediaic/CV_Course_Tutorial/blob/master/numpy_tutorial.ipynb)
 * [OpenCV tutorial](https://github.com/mediaic/CV_Course_Tutorial/tree/master/OpenCV)
 
