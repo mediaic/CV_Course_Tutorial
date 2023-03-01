@@ -1,4 +1,4 @@
-# [Computer Vision (Spring 2021)](http://media.ee.ntu.edu.tw/courses/cv/21S/)
+# [Computer Vision (Spring 2023)](http://media.ee.ntu.edu.tw/courses/cv/21S/)
 
 ## Mini-Tutorial on Python + NumPy + OpenCV
 
